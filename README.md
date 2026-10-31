@@ -16,6 +16,7 @@ Python CLI script to calculate truck trip profit based on distance, fuel price, 
 3. Запустите в терминале:
 ```bash
 python calculate_logitst.py
+```
 
 ## Что дальше (Roadmap)
 - [ ] Добавить учёт других расходов (амортизация, зарплата водителя).
